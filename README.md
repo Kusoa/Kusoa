@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning website development but that's probably going to change if I forget to update.
 - 💞️ I’m looking to collaborate on nothing but help is appreciated.
 - 📫 How to reach me:
-Discord: kusoa#3604
+Discord: kusoa
 Twitter: @KusoaTaken
 
 Thanks for stopping by!
