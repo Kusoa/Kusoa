@@ -1,14 +1,7 @@
-- 👋 Hi, I’m @Kusoa
-- 👀 I’m interested in osu!, STEM, and stuffing around.
-- 🌱 I’m currently learning website development but that's probably going to change if I forget to update.
-- 💞️ I’m looking to collaborate on nothing but help is appreciated.
-- 📫 How to reach me:
-Discord: kusoa
-Twitter: @KusoaTaken
+# Phillip Truong
 
-Thanks for stopping by!
+- Twitter [@KusoaTaken](https://x.com/KusoaTaken)
+- Instagram [@phillip_truong_](https://www.instagram.com/phillip_truong_/)
+- Discord: @kusoa
 
-<!---
-Kusoa/Kusoa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+meow
